@@ -1,0 +1,23 @@
+body{
+  background-color: #dfabd17c;
+  font-size: larger;
+}
+
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: 500;
+  font-size: 28px;
+}
+
+.about-me{
+  
+  text-align: center;
+}
+span{
+  display: block;
+  text-shadow: 5px 2px 5px #ffffff80, 2px 2px 5px #813a8f;
+  color:#5c2a6d;
+  font-weight: 700;
+  font-size: 50px;
+}
